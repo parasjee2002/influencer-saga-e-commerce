@@ -4,4 +4,4 @@ THIS WEBSITES CONSISTS OF VARIOUS ASPECTS OF E-COMMERCE AND IT IS JUST SMALL DEM
 
 HERE IS THE LINK OF WEBSITE
 
-https://parasjee2002.github.io/influencer-saga-e-commerce/1
+https://parasjee2002.github.io/influencer-saga-e-commerce/
